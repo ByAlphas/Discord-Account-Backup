@@ -9,6 +9,4 @@ Discord sizi her an güvenilir olmayan bir nedenle yasaklayabileceğinden bu yar
 3. Kayıtlı arkadaşlar ekleyin
 4. Kayıtlı sunuculara katılın
 
-![](https://www.hizliresim.com/lctqdes)
-
-[https://www.hizliresim.com/lctqdes görsel]
+![](https://i.imgur.com/YgDNEuX.png)
