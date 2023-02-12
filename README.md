@@ -10,3 +10,5 @@ Discord sizi her an güvenilir olmayan bir nedenle yasaklayabileceğinden bu yar
 4. Kayıtlı sunuculara katılın
 
 ![](https://www.hizliresim.com/lctqdes)
+
+[url=https://www.hizliresim.com/lctqdes][img]https://i.hizliresim.com/lctqdes.png[/img][/url]
