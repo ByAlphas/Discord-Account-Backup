@@ -10,3 +10,5 @@ This can be useful as Discord can ban you at any time for an unreliable reason.
 4. Join registered servers
 
 ![](https://i.imgur.com/YgDNEuX.png)
+
+To Download Module: pip install requests
