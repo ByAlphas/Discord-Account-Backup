@@ -11,4 +11,4 @@ This can be useful as Discord can ban you at any time for an unreliable reason.
 
 ![](https://i.imgur.com/YgDNEuX.png)
 
-To Download Module: pip install requests
+```To Download Module: pip install requests```
